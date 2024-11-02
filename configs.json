@@ -1,0 +1,39 @@
+{
+  "data": {
+    "itemList": [
+      {
+        "web_config": {
+          "web_sitename": "测试博客",
+          "web_cmsname": "wordpress",
+          "web_domain": "https://www.lopins.cn",
+          "web_username": "lopins",
+          "web_password": "lopins",
+          "web_apiurl": "/wp-json/wp/v2",
+          "web_apikey": "s0MJ BuDE ojld u5ZM Z361 zFIB",
+          "web_sluglang": "pinyin",
+          "web_slugsymbol": "-",
+          "web_category": [1,1,1],
+          "web_redup": false,
+          "web_library": false,
+          "web_webp": false,
+          "web_publish": true
+        },
+        "push_config": {
+          "baidu_token": "PvKplzPCPlopiN38",
+          "indexnow_key": "b131d682f6cc49855f603e87ce9d66a3",
+          "indexnow_key_location": "https://www.lopins.cn/b131d682f6cc49855f603e87ce9d66a3.txt"
+        },
+        "ftp_config": {
+          "ftp_status": false,
+          "ftp_type": "ftp",
+          "ftp_name": "www_lopins_lcn",
+          "ftp_server": "10.111.222.123",
+          "ftp_port": 39921,
+          "ftp_username": "lopins",
+          "ftp_password": "LaasNpbGhwRNwwcc",
+          "ftp_uploaddir": "/wp-content/uploads"
+        }
+      }
+    ]
+  }
+}
